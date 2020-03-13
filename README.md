@@ -18,7 +18,7 @@ This is a uGUI system related script I did a while back. By default Unity UI ele
 
 
 ## About UI System and Sprites
-Unity UI hit test with alpha test is not very straight forward to create. First of all there can textures with a single Sprite or there can be textures with several sprites like seen here:
+Unity UI hit test with alpha check is not very straight forward to create. First of all there can textures with a single Sprite or there can be textures with several sprites like seen here:
 
 ![UI Image alpha test](/doc/ui_sprite_sheet.PNG)
 
