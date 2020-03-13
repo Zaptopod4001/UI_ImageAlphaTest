@@ -4,13 +4,13 @@
 
 ## What is it?
 
-This is a uGUI system related script I did a while back. By default Unity UI elements don't check user clicks based on UI element image opaque pixels, elements only check if user clicked inside the RectTransform of that specific UI element. Luckily Unity has provided an interface that can be used to replace the default behaviour. Add a script with this interface to your you GameObject with a UI Image component.
+This is a uGUI system related script I did a while back. By default Unity UI elements don't check user clicks based on UI element image opaque pixels, elements only check if user clicked inside the RectTransform of that specific UI element. Luckily Unity has provided an interface that can be used to replace the default behaviour. Add a script with this interface to your GameObject with a UI Image component.
 
 ### Features:
 
 * Works with Simple type UI image
 
-* Works with Simple type UI image that has "Preserve Aspect" toggled on (using Aspect ratio fitter)
+* Works with Simple type UI image that has "Preserve Aspect" toggled on (using Aspect Ratio Fitter)
 
 * Works with Sliced type UI image (9-slice sprite)
 
