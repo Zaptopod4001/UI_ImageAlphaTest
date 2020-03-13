@@ -33,9 +33,9 @@ Sliced mode Image is a bit more complicated case. There are the sides formed by 
 
 ## Limitations
 
-* Requires images to be marked as Read/Write enabled
+* Requires used Images to be marked as Read/Write enabled
 
-* Requires images to be uncompressed (?)
+* Requires used Images to be uncompressed (?)
 
 
 # Classes
